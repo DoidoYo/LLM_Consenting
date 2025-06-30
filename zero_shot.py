@@ -1,8 +1,13 @@
 import openai
 import time
+import os
+from dotenv import load_dotenv
 
 # Set your OpenAI API key
-MY_API_KEY = "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"
+# Load environment variables from .env file
+load_dotenv()
+
+MY_API_KEY = os.getenv("OPENAI_API_KEY")
 
 def generate_mcq(consent_text, topic_name, topic_description, model="gpt-4"):
     prompt = f"""
@@ -72,17 +77,11 @@ def generate_mcqs_by_topic(consent_text, questions_per_topic=1):
     return results
 
 if __name__ == "__main__":
-    # === Replace with your own values ===
-
-    # CONSENT_TEXT = ""
+ 
     with open("consents/cysto_consent.txt", "r", encoding="utf-8") as file:
         CONSENT_TEXT = file.read()
 
     TOPICS = load_topics_from_file("topics.txt")
-
-    print(CONSENT_TEXT)
-
-    # consent_text = "The risks of cystoscopy include bleeding, infection, and discomfort during urination."
     QUESTIONS_PER_TOPIC = 1
 
     mcqs = generate_mcqs_by_topic(CONSENT_TEXT, QUESTIONS_PER_TOPIC)
@@ -92,4 +91,4 @@ if __name__ == "__main__":
         for mcq in mcqs:
             f.write(mcq + "\n")
 
-    print(f"\n✅ Done! Saved {len(mcqs)} MCQs to '{output_file}'")  
+    print(f"\nDone! Saved {len(mcqs)} MCQs to '{output_file}'")  

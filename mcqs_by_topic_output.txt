@@ -1,94 +1,395 @@
---- Indication (Q1) ---
-**Topic**: Indication - Why the procedure is being done
-
-**Question**: What is the main purpose of a cystoscopy procedure?
-A) To remove the bladder
-B) To examine the inside of the bladder and urethra
-C) To treat a urinary tract infection
-D) To remove kidney stones
-
-**Answer**: B
-**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
-
---- Relevant anatomy (Q1) ---
-**Topic**: Relevant anatomy - Structures involved
-
-**Question**: Which parts of the body are examined during a cystoscopy procedure?
-A) The heart and lungs
-B) The bladder and urethra
-C) The leg and blood vessels
-D) The lungs and chest
-
-**Answer**: B
-**Rationale**: According to the consent form, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope. Therefore, the bladder and urethra are the structures involved in this procedure.
-
---- Procedure steps (Q1) ---
-**Topic**: Procedure steps - What the procedure involves
-
-**Question**: What does the doctor do during a cystoscopy procedure?
-A) The doctor uses a cystoscope to examine the inside of the stomach.
-B) The doctor uses a cystoscope to examine the inside of the bladder and urethra.
-C) The doctor uses a cystoscope to examine the inside of the heart.
-D) The doctor uses a cystoscope to examine the inside of the lungs.
-
-**Answer**: B
-**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope. Therefore, option B is the correct answer.
-
---- Expected duration (Q1) ---
-**Topic**: Expected duration
-
-**Question**: According to the consent form, how long does it mention the recovery from a cystoscopy procedure might take?
-A) 1 week
-B) 2 weeks
-C) The consent form does not specify a recovery time
-D) 1 month
-
-**Answer**: C
-
-**Rationale**: The consent form does not provide specific information about the duration of recovery from a cystoscopy procedure. Therefore, the correct answer is that the consent form does not specify a recovery time.
-
---- Risks and complications (Q1) ---
-**Topic**: Risks and complications
-**Question**: What are some possible risks and complications of a cystoscopy procedure?
-A) Infection requiring antibiotics and further treatment
-B) A sudden increase in height
-C) An uncontrollable urge to eat sweets
-D) A change in eye color
-**Answer**: A
-**Rationale**: The consent text mentions several risks and complications associated with a cystoscopy procedure. Among these, the possibility of an infection requiring antibiotics and further treatment is explicitly stated. The other options (B, C, and D) are not mentioned in the text and are not known complications of a cystoscopy.
-
---- Benefits (Q1) ---
-**Topic**: Benefits - Intended clinical benefits or diagnostic value
-
-**Question**: What is the main purpose of a cystoscopy procedure?
-A) To treat a heart condition
-B) To examine the inside of the bladder and urethra
-C) To remove a blood clot in the leg
-D) To treat a lung infection
-
-**Answer**: B
-**Rationale**: The consent form states that a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope. This indicates that the main purpose of a cystoscopy is to examine these areas, not to treat heart conditions, remove blood clots, or treat lung infections.
-
---- Alternatives (Q1) ---
-**Topic**: Alternatives - Other treatments or options if the procedure is not done
-
-**Question**: According to the consent form, what information is provided about alternative treatments or options if the cystoscopy procedure is not done?
-
-A) The consent form provides a detailed list of alternative treatments.
-B) The consent form does not provide any information about alternative treatments.
-C) The consent form suggests that there are no alternative treatments.
-D) The consent form states that alternative treatments can be discussed with the doctor.
-
-**Answer**: B
-**Rationale**: The consent form does not provide any specific information about alternative treatments or options if the cystoscopy procedure is not done.
-
---- Postoperative expectations (Q1) ---
-**Topic**: Postoperative expectations
-**Question**: What can you expect after the cystoscopy procedure?
-A) You will be able to urinate normally immediately after the procedure.
-B) You may experience burning and scalding of urine for a few days after the procedure.
-C) You will not need any further procedures after the cystoscopy.
-D) You will not experience any changes in the color of your urine after the procedure.
-**Answer**: B
-**Rationale**: The consent form mentions that patients may experience burning and scalding of urine for a few days after the procedure. This is a normal postoperative expectation and does not necessarily indicate a complication.
-
+[
+E
+R
+R
+O
+R
+]
+ 
+E
+r
+r
+o
+r
+ 
+c
+o
+d
+e
+:
+ 
+4
+0
+1
+ 
+-
+ 
+{
+'
+e
+r
+r
+o
+r
+'
+:
+ 
+{
+'
+m
+e
+s
+s
+a
+g
+e
+'
+:
+ 
+'
+I
+n
+c
+o
+r
+r
+e
+c
+t
+ 
+A
+P
+I
+ 
+k
+e
+y
+ 
+p
+r
+o
+v
+i
+d
+e
+d
+:
+ 
+s
+k
+-
+p
+r
+o
+j
+-
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+9
+y
+4
+A
+.
+ 
+Y
+o
+u
+ 
+c
+a
+n
+ 
+f
+i
+n
+d
+ 
+y
+o
+u
+r
+ 
+A
+P
+I
+ 
+k
+e
+y
+ 
+a
+t
+ 
+h
+t
+t
+p
+s
+:
+/
+/
+p
+l
+a
+t
+f
+o
+r
+m
+.
+o
+p
+e
+n
+a
+i
+.
+c
+o
+m
+/
+a
+c
+c
+o
+u
+n
+t
+/
+a
+p
+i
+-
+k
+e
+y
+s
+.
+'
+,
+ 
+'
+t
+y
+p
+e
+'
+:
+ 
+'
+i
+n
+v
+a
+l
+i
+d
+_
+r
+e
+q
+u
+e
+s
+t
+_
+e
+r
+r
+o
+r
+'
+,
+ 
+'
+p
+a
+r
+a
+m
+'
+:
+ 
+N
+o
+n
+e
+,
+ 
+'
+c
+o
+d
+e
+'
+:
+ 
+'
+i
+n
+v
+a
+l
+i
+d
+_
+a
+p
+i
+_
+k
+e
+y
+'
+}
+}
