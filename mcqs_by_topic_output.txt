@@ -1,0 +1,82 @@
+--- Indication (Q1) ---
+**Topic**: Indication
+
+**Question**: According to the consent text, why might a cystoscopy be performed?
+A) To treat discomfort during urination
+B) To diagnose a potential infection
+C) To stop bleeding
+D) None of the above
+
+**Answer**: D) None of the above
+
+**Rationale**: The consent text does not provide any information on why a cystoscopy might be performed. It only mentions the risks associated with the procedure, which include bleeding, infection, and discomfort during urination.
+
+--- Relevant anatomy (Q1) ---
+**Topic**: Relevant anatomy
+**Question**: Which part of your body is involved in the cystoscopy procedure?
+A) Heart
+B) Lungs
+C) Urinary tract
+D) Brain
+**Answer**: C
+**Rationale**: The consent text mentions risks such as bleeding, infection, and discomfort during urination, which are all related to the urinary tract. Therefore, the urinary tract is the part of the body involved in the cystoscopy procedure.
+
+--- Procedure steps (Q1) ---
+**Topic**: Procedure steps
+**Question**: What are the potential risks associated with a cystoscopy procedure?
+A) Headache and nausea
+B) Bleeding, infection, and discomfort during urination
+C) Weight loss and fatigue
+D) Hair loss and skin irritation
+**Answer**: B
+**Rationale**: The consent text specifically mentions that the risks of cystoscopy include bleeding, infection, and discomfort during urination. The other options are not mentioned in the consent text.
+
+--- Expected duration (Q1) ---
+I'm sorry, but the consent text provided does not contain any information about the expected duration of the procedure or recovery time. Therefore, I cannot create a multiple-choice question on this topic using only the information from the consent text.
+
+--- Risks and complications (Q1) ---
+**Topic**: Risks and complications
+
+**Question**: What are some possible risks of undergoing a cystoscopy procedure?
+
+A) Headaches and dizziness
+B) Bleeding, infection, and discomfort during urination
+C) Weight gain and fatigue
+D) Allergic reactions to medication
+
+**Answer**: B
+**Rationale**: The consent text specifically mentions that the risks of cystoscopy include bleeding, infection, and discomfort during urination. The other options are not mentioned in the consent text.
+
+--- Benefits (Q1) ---
+**Topic**: Benefits
+**Question**: According to the consent text, what are the intended clinical benefits or diagnostic value of a cystoscopy?
+A) To improve comfort during urination
+B) To prevent infections
+C) To stop bleeding
+D) The consent text does not mention any intended benefits or diagnostic value
+**Answer**: D
+**Rationale**: The consent text only mentions the risks of the procedure (bleeding, infection, and discomfort during urination), but does not provide any information about the intended benefits or diagnostic value of a cystoscopy.
+
+--- Alternatives (Q1) ---
+**Topic**: Alternatives
+**Question**: According to the consent text, what are the other treatments or options mentioned if the cystoscopy procedure is not done?
+A) Antibiotics
+B) Pain relievers
+C) No alternatives mentioned
+D) Surgery
+
+**Answer**: C
+**Rationale**: The consent text does not provide any information about other treatments or options if the cystoscopy procedure is not done. Therefore, the correct answer is C) No alternatives mentioned.
+
+--- Postoperative expectations (Q1) ---
+**Topic**: Postoperative expectations
+
+**Question**: What can you expect after undergoing a cystoscopy procedure?
+A) You will need to fast (NPO) for 24 hours.
+B) You will have a catheter inserted.
+C) You may experience discomfort during urination.
+D) You will need to schedule a follow-up appointment within a week.
+
+**Answer**: C
+**Rationale**: The consent text mentions that one of the risks of cystoscopy is discomfort during urination. This implies that patients can expect this as a possible postoperative symptom. The consent does not provide information about fasting, catheter insertion, or scheduling a follow-up appointment.
+

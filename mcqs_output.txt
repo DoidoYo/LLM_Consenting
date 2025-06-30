@@ -1,0 +1,12 @@
+--- Question 1 ---
+**Topic**: Indication-Why the procedure is being done
+
+**Question**: Based on the consent text, why might a cystoscopy be performed?
+A) To treat discomfort during urination
+B) To diagnose a potential infection
+C) To stop bleeding
+D) The consent text does not provide information on why a cystoscopy is performed
+
+**Answer**: D
+**Rationale**: The consent text only mentions the risks of the procedure (bleeding, infection, and discomfort during urination), but does not provide any information on why a cystoscopy might be performed.
+
