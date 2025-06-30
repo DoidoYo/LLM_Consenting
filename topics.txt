@@ -1,0 +1,8 @@
+Indication-Why the procedure is being done
+Relevant anatomy-Structures involved
+Procedure steps-What the procedure involves
+Expected duration-How long the procedure or recovery takes
+Risks and complications-Possible adverse effects, pain, infection, etc.
+Benefits-Intended clinical benefits or diagnostic value
+Alternatives-Other treatments or options if the procedure is not done
+Postoperative expectations-NPO, catheter, follow-up, recovery instructions
