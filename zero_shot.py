@@ -13,7 +13,7 @@ CONSENT:
 {consent_text}
 \"\"\"
 
-Please generate ONE multiple-choice question about the following topic: **{topic_name} - {topic_description}**.
+Please generate ONE multiple-choice question.
 
 Instructions:
 - Provide exactly four answer choices (A–D).
@@ -23,7 +23,6 @@ Instructions:
 - End with the correct answer letter and a brief rationale explaining why.
 
 Output Format:
-**Topic**: {topic_name}
 **Question**: ...
 A) ...
 B) ...
@@ -75,13 +74,18 @@ def generate_mcqs_by_topic(consent_text, questions_per_topic=1):
 if __name__ == "__main__":
     # === Replace with your own values ===
 
-    CONSENT_TEXT = ""
+    # CONSENT_TEXT = ""
+    with open("consents/cysto_consent.txt", "r", encoding="utf-8") as file:
+        CONSENT_TEXT = file.read()
+
     TOPICS = load_topics_from_file("topics.txt")
 
-    consent_text = "The risks of cystoscopy include bleeding, infection, and discomfort during urination."
+    print(CONSENT_TEXT)
+
+    # consent_text = "The risks of cystoscopy include bleeding, infection, and discomfort during urination."
     QUESTIONS_PER_TOPIC = 1
 
-    mcqs = generate_mcqs_by_topic(consent_text, QUESTIONS_PER_TOPIC)
+    mcqs = generate_mcqs_by_topic(CONSENT_TEXT, QUESTIONS_PER_TOPIC)
 
     output_file = "mcqs_by_topic_output.txt"
     with open(output_file, "w") as f:

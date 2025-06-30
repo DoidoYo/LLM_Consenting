@@ -1,12 +1,72 @@
---- Question 1 ---
-**Topic**: Indication-Why the procedure is being done
+--- Indication (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+C) A procedure where the doctor examines the inside of the heart.
+D) A procedure where the doctor examines the inside of the lungs.
+**Answer**: B
+**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
 
-**Question**: Based on the consent text, why might a cystoscopy be performed?
-A) To treat discomfort during urination
-B) To diagnose a potential infection
-C) To stop bleeding
-D) The consent text does not provide information on why a cystoscopy is performed
+--- Relevant anatomy (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+C) A procedure where the doctor examines the inside of the heart.
+D) A procedure where the doctor examines the inside of the lungs.
+**Answer**: B
+**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
 
-**Answer**: D
-**Rationale**: The consent text only mentions the risks of the procedure (bleeding, infection, and discomfort during urination), but does not provide any information on why a cystoscopy might be performed.
+--- Procedure steps (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach using a fine telescopic-type instrument.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument.
+C) A procedure where the doctor examines the inside of the heart using a fine telescopic-type instrument.
+D) A procedure where the doctor examines the inside of the lungs using a fine telescopic-type instrument.
+**Answer**: B
+**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+
+--- Expected duration (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+C) A procedure where the doctor examines the inside of the heart.
+D) A procedure where the doctor examines the inside of the lungs.
+**Answer**: B
+**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+
+--- Risks and complications (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+C) A procedure where the doctor examines the inside of the heart.
+D) A procedure where the doctor examines the inside of the lungs.
+**Answer**: B
+**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+
+--- Benefits (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach using a fine telescopic-type instrument.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument.
+C) A procedure where the doctor examines the inside of the heart using a fine telescopic-type instrument.
+D) A procedure where the doctor examines the inside of the lungs using a fine telescopic-type instrument.
+**Answer**: B
+**Rationale**: The consent form clearly states that a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+
+--- Alternatives (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+C) A procedure where the doctor examines the inside of the heart.
+D) A procedure where the doctor examines the inside of the lungs.
+**Answer**: B
+**Rationale**: The consent form clearly states that a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+
+--- Postoperative expectations (Q1) ---
+**Question**: What is a cystoscopy procedure?
+A) A procedure where the doctor examines the inside of the stomach.
+B) A procedure where the doctor examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+C) A procedure where the doctor examines the inside of the heart.
+D) A procedure where the doctor examines the inside of the lungs.
+**Answer**: B
+**Rationale**: According to the consent text, a cystoscopy is a procedure where the doctor looks and examines the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
 
