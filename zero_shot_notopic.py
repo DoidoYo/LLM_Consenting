@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 MY_API_KEY = os.getenv("OPENAI_API_KEY")
 
-def generate_mcq(consent_text, topic_name, topic_description, model="gpt-4o"):
+def generate_mcq(consent_text, topic_name="", topic_description="", model="gpt-4o"):
     prompt = f"""
 You are a urologist writing a multiple-choice question (MCQ) to test patient understanding of a medical procedure. Use only the information contained in the consent text below.
 
@@ -63,14 +63,15 @@ def load_topics_from_file(filename="topics.txt"):
                 topics.append((tag.strip(), description.strip()))
     return topics
 
-def generate_mcqs_by_topic(consent_text, questions_per_topic=1):
+def generate_mcqs(consent_text, number_of_questions=1):
     results = []
-    for topic_name, topic_description in TOPICS:
-        for i in range(questions_per_topic):
-            print(f"Generating '{topic_name}' question {i + 1}/{questions_per_topic}...")
-            mcq = generate_mcq(consent_text, topic_name, topic_description)
-            results.append(f"--- {topic_name} (Q{i+1}) ---\n{mcq}\n")
-            time.sleep(1.5)  # rate limit protection
+    # for topic_name, topic_description in TOPICS:
+
+    for i in range(number_of_questions):
+        print(f"Generating question {i + 1}/{number_of_questions}...")
+        mcq = generate_mcq(consent_text)
+        results.append(f"--- (Q{i+1}) ---\n{mcq}\n")
+        time.sleep(1.5)  # rate limit protection
     return results
 
 if __name__ == "__main__":
@@ -79,11 +80,11 @@ if __name__ == "__main__":
         CONSENT_TEXT = file.read()
 
     TOPICS = load_topics_from_file("topics.txt")
-    QUESTIONS_PER_TOPIC = 1
+    number_of_questions = 10
 
-    mcqs = generate_mcqs_by_topic(CONSENT_TEXT, QUESTIONS_PER_TOPIC)
+    mcqs = generate_mcqs(CONSENT_TEXT, number_of_questions)
 
-    output_file = "mcqs_by_topic_output.txt"
+    output_file = "MCQs_output_.txt"
     with open(output_file, "w") as f:
         for mcq in mcqs:
             f.write(mcq + "\n")
