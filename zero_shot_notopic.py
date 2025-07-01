@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 MY_API_KEY = os.getenv("OPENAI_API_KEY")
 
-def generate_mcq(consent_text, topic_name, topic_description, model="gpt-4"):
+def generate_mcq(consent_text, topic_name, topic_description, model="gpt-4o"):
     prompt = f"""
 You are a urologist writing a multiple-choice question (MCQ) to test patient understanding of a medical procedure. Use only the information contained in the consent text below.
 
@@ -15,7 +15,7 @@ CONSENT:
 {consent_text}
 \"\"\"
 
-Please generate ONE multiple-choice question about the following topic: **{topic_name} - {topic_description}**.
+Please generate ONE multiple-choice question.
 
 Instructions:
 - Provide exactly four answer choices (A–D).
@@ -25,7 +25,6 @@ Instructions:
 - End with the correct answer letter and a brief rationale explaining why.
 
 Output Format:
-**Topic**: {topic_name}
 **Question**: ...
 A) ...
 B) ...
