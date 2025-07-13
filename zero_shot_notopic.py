@@ -15,9 +15,10 @@ CONSENT:
 {consent_text}
 \"\"\"
 
-Please generate ONE multiple-choice question.
+Please generate topics which you think are relevant. For each topic, generate THREE multiple-choice question.
 
 Instructions:
+- Questions should be different from each other.
 - Provide exactly four answer choices (A–D).
 - There should be only one correct answer.
 - Use only information from the consent text — do not add new facts or assumptions.
@@ -25,6 +26,14 @@ Instructions:
 - End with the correct answer letter and a brief rationale explaining why.
 
 Output Format:
+**Topics: **
+1) ...
+*Rationale* ...
+2) ...
+*Rationale* ...
+so on...
+
+** Topic **: ...
 **Question**: ...
 A) ...
 B) ...
@@ -32,6 +41,8 @@ C) ...
 D) ...
 **Answer**: [Letter]
 **Rationale**: ...
+
+so on...
 """
     try:
 
@@ -45,7 +56,7 @@ D) ...
             ],
             temperature=0,
             top_p=0,
-            max_tokens=300
+            max_tokens=3000
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
@@ -80,11 +91,11 @@ if __name__ == "__main__":
         CONSENT_TEXT = file.read()
 
     TOPICS = load_topics_from_file("topics.txt")
-    number_of_questions = 10
+    number_of_questions = 1
 
     mcqs = generate_mcqs(CONSENT_TEXT, number_of_questions)
 
-    output_file = "MCQs_output_.txt"
+    output_file = "MCQs_output_notopic_three.txt"
     with open(output_file, "w") as f:
         for mcq in mcqs:
             f.write(mcq + "\n")
