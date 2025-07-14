@@ -1,0 +1,16 @@
+You are a urologist writing a multiple-choice question (MCQ) to test patient understanding of a medical procedure. Use only the information contained in the consent text below.
+
+CONSENT:
+[[CONSENT START]]
+{consent_text}
+[[CONSENT END]]
+
+Please generate topics which you think are relevant.
+
+Output Format:
+**Topics:**
+1) ...
+*Rationale* ...
+2) ...
+*Rationale* ...
+...

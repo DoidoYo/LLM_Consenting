@@ -1,0 +1,189 @@
+**Topics:**
+
+1) Understanding the Cystoscopy Procedure
+*Rationale:* Patients should be aware of what a cystoscopy involves, including the use of a cystoscope to examine the bladder and urethra.
+
+2) General and Specific Risks of Cystoscopy
+*Rationale:* It is important for patients to understand both the general and specific risks associated with the procedure, such as infection, bleeding, and potential damage to the urethra or bladder.
+
+3) Anaesthetic Considerations
+*Rationale:* Patients need to be informed about the requirement for anaesthesia during the procedure and the associated risks, as well as the importance of discussing any concerns with their doctor.
+
+4) Role of Medical Trainees and Consent for Student Involvement
+*Rationale:* Patients should understand that a doctor in training may perform or assist with the procedure under supervision, and they have the right to consent or decline student involvement.
+
+5) Risks of Not Having the Procedure
+*Rationale:* Patients should be aware of the potential consequences of not undergoing the cystoscopy, as documented by the doctor.
+
+6) Patient Rights and Consent
+*Rationale:* Patients should be informed about their rights to ask questions, change their mind, and understand the implications of their consent, including the use of images or videos for treatment purposes.
+
+=== MCQ 1 ===
+**Topic**: Understanding the Cystoscopy Procedure
+
+**Question 1**: What is the main purpose of a cystoscopy procedure?
+
+A) To examine the inside of the bladder and urethra using a cystoscope.
+
+B) To remove kidney stones from the bladder.
+
+C) To perform surgery on the prostate gland.
+
+D) To treat urinary tract infections with antibiotics.
+
+**Answer**: A
+
+**Rationale**: The main purpose of a cystoscopy is to examine the inside of the bladder and urethra using a fine telescopic-type instrument called a cystoscope.
+
+=== MCQ 2 ===
+**Topic**: Risks of Cystoscopy
+
+**Question 2**: Which of the following is a specific risk associated with a cystoscopy procedure?
+
+A) Developing a skin rash.
+
+B) Damage to the bladder wall.
+
+C) Loss of vision.
+
+D) Hearing loss.
+
+**Answer**: B
+
+**Rationale**: Damage to the bladder by puncturing the bladder wall is listed as a specific risk associated with a cystoscopy procedure.
+
+=== MCQ 3 ===
+**Topic**: Role of Medical Trainees and Consent for Student Involvement
+
+**Question 3**: What should you know about the involvement of medical students during your cystoscopy procedure?
+
+A) Students will perform the procedure without supervision.
+
+B) Students can observe or assist only if you give consent.
+
+C) Students are not allowed to be present during the procedure.
+
+D) Students will be the primary doctors performing the procedure.
+
+**Answer**: B
+
+**Rationale**: Medical students may observe or assist in the procedure for educational purposes, but only if the patient consents to their involvement.
+
+=== MCQ 4 ===
+**Topic**: Anaesthetic Considerations
+
+**Question 4**: What should you do if you have concerns about the anaesthetic for your cystoscopy procedure?
+
+A) Ignore your concerns as they are not important.
+
+B) Discuss your concerns with your doctor.
+
+C) Cancel the procedure immediately.
+
+D) Ask a friend for advice instead of your doctor.
+
+**Answer**: B
+
+**Rationale**: If you have concerns about the anaesthetic, it is important to discuss them with your doctor, as stated in the consent information.
+
+=== MCQ 5 ===
+**Topic**: Patient Rights and Consent
+
+**Question 5**: What is one of your rights regarding the cystoscopy procedure?
+
+A) You must sign the consent form without asking questions.
+
+B) You can change your mind about the procedure at any time.
+
+C) You are required to allow students to perform the procedure.
+
+D) You cannot discuss the procedure with your doctor after signing the consent.
+
+**Answer**: B
+
+**Rationale**: Patients have the right to change their mind about the procedure at any time, even after signing the consent form, preferably after discussing with their doctor.
+
+=== MCQ 6 ===
+**Topic**: Risks of Not Having the Procedure
+
+**Question 6**: What should you consider if you decide not to have the cystoscopy procedure?
+
+A) You will automatically be scheduled for a different procedure.
+
+B) There are no risks associated with not having the procedure.
+
+C) The doctor will document the risks of not having the procedure.
+
+D) You will not need any further medical consultations.
+
+**Answer**: C
+
+**Rationale**: The consent form indicates that the doctor will document the risks of not having the procedure, which is important for patients to consider when making their decision.
+
+=== MCQ 7 ===
+**Topic**: General Risks of Cystoscopy
+
+**Question 7**: Which of the following is a general risk associated with a cystoscopy procedure?
+
+A) Developing a skin allergy.
+
+B) Experiencing a heart attack or stroke.
+
+C) Losing hair temporarily.
+
+D) Developing a permanent limp.
+
+**Answer**: B
+
+**Rationale**: The consent form lists heart attack or stroke as a general risk due to the strain on the heart during the procedure.
+
+=== MCQ 8 ===
+**Topic**: Infection Risks and Management
+
+**Question 8**: What might be required if an infection occurs after a cystoscopy?
+
+A) Immediate discharge from the hospital.
+
+B) A change in diet.
+
+C) Antibiotics and further treatment.
+
+D) A new pair of glasses.
+
+**Answer**: C
+
+**Rationale**: If an infection occurs after a cystoscopy, the consent form states that antibiotics and further treatment may be required to manage the infection.
+
+=== MCQ 9 ===
+**Topic**: Post-Procedure Symptoms
+
+**Question 9**: What is a common symptom you might experience for a few days after a cystoscopy?
+
+A) Persistent headache.
+
+B) Burning sensation during urination.
+
+C) Severe back pain.
+
+D) Loss of appetite.
+
+**Answer**: B
+
+**Rationale**: The consent form mentions that a burning and scalding sensation during urination is a common symptom that usually settles a few days after the procedure.
+
+=== MCQ 10 ===
+**Topic**: Blood Thinning Medications and Bleeding Risk
+
+**Question 10**: Which medication increases the risk of bleeding during a cystoscopy?
+
+A) Ibuprofen
+
+B) Acetaminophen
+
+C) Clopidogrel (Plavix or Iscover)
+
+D) Metformin
+
+**Answer**: C
+
+**Rationale**: The consent form specifies that taking blood-thinning drugs like Clopidogrel (Plavix or Iscover) increases the risk of bleeding during the procedure.

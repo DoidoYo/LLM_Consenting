@@ -1,0 +1,192 @@
+**Topics:**
+
+1) Understanding the Cystoscopy Procedure
+*Rationale:* Patients should be aware of what a cystoscopy involves, including the use of a cystoscope to examine the bladder and urethra.
+
+2) General and Specific Risks of Cystoscopy
+*Rationale:* It is important for patients to understand both the general and specific risks associated with the procedure, such as infection, bleeding, and potential damage to the urethra or bladder.
+
+3) Anaesthetic Considerations
+*Rationale:* Patients need to be informed about the requirement for anaesthesia during the procedure and the associated risks, as well as the importance of discussing any concerns with their doctor.
+
+4) Role of Medical Trainees and Consent for Student Involvement
+*Rationale:* Patients should understand that a doctor in training may perform or assist with the procedure under supervision, and they have the right to consent or decline student involvement.
+
+5) Risks of Not Having the Procedure
+*Rationale:* Patients should be aware of the potential consequences of not undergoing the cystoscopy, as documented by the doctor.
+
+6) Patient Rights and Consent
+*Rationale:* Patients should be informed about their rights to ask questions, raise concerns, and change their mind about the procedure, as well as the implications of their consent.
+
+7) Post-Procedure Expectations and Care
+*Rationale:* Understanding what to expect after the procedure, including possible symptoms like burning or scalding urine, and the need for further treatment if complications arise, is crucial for patient preparedness and recovery.
+
+=== MCQ 1 ===
+**Topic**: General and Specific Risks of Cystoscopy
+
+**Question 1**: Which of the following is a specific risk associated with a cystoscopy procedure?
+
+A) Heart attack
+
+B) Damage to the bladder wall
+
+C) Blood clot in the leg (DVT)
+
+D) Small areas of the lung collapsing
+
+**Answer**: B
+
+**Rationale**: Damage to the bladder wall is listed as a specific risk of the cystoscopy procedure. The other options are general risks associated with the procedure.
+
+=== MCQ 2 ===
+**Topic**: Role of Medical Trainees and Consent for Student Involvement
+
+**Question 2**: What should you do if you do not want a student to assist in your cystoscopy procedure?
+
+A) Refuse the procedure entirely
+
+B) Discuss your concerns with the doctor
+
+C) Sign a separate form for student involvement
+
+D) Leave the decision to the hospital staff
+
+**Answer**: B
+
+**Rationale**: If you do not want a student to assist in your procedure, you should discuss your concerns with the doctor. The consent form states that you are under no obligation to consent to student involvement, and discussing your preferences with the doctor is the appropriate action.
+
+=== MCQ 3 ===
+**Topic**: Understanding the Cystoscopy Procedure
+
+**Question 3**: What is the main purpose of a cystoscopy?
+
+A) To remove kidney stones
+
+B) To examine the inside of the bladder and urethra
+
+C) To perform surgery on the prostate
+
+D) To treat urinary tract infections
+
+**Answer**: B
+
+**Rationale**: The main purpose of a cystoscopy is to examine the inside of the bladder and urethra using a cystoscope, as stated in the consent text. The other options do not describe the primary purpose of a cystoscopy.
+
+=== MCQ 4 ===
+**Topic**: Anaesthetic Considerations
+
+**Question 4**: What should you do if you have concerns about the anaesthetic for your cystoscopy?
+
+A) Ignore your concerns and proceed with the procedure
+
+B) Discuss your concerns with the nurse after the procedure
+
+C) Talk to your doctor about your concerns before the procedure
+
+D) Cancel the procedure without informing anyone
+
+**Answer**: C
+
+**Rationale**: If you have concerns about the anaesthetic, you should discuss them with your doctor before the procedure. The consent text advises patients to talk to their doctor if they have any concerns about the anaesthetic.
+
+=== MCQ 5 ===
+**Topic**: Risks of Not Having the Procedure
+
+**Question 5**: What should be documented if you decide not to have the cystoscopy procedure?
+
+A) The type of anaesthetic you prefer
+
+B) The risks of not having the procedure
+
+C) The name of the student observing the procedure
+
+D) The time and date of the procedure
+
+**Answer**: B
+
+**Rationale**: The consent text specifies that the doctor should document the risks of not having the procedure. This information helps patients understand the potential consequences of declining the cystoscopy.
+
+=== MCQ 6 ===
+**Topic**: Patient Rights and Consent
+
+**Question 6**: What is one of your rights regarding the cystoscopy procedure after signing the consent form?
+
+A) You must proceed with the procedure without any changes.
+
+B) You can change your mind about the procedure at any time.
+
+C) You are required to allow a student to perform the procedure.
+
+D) You cannot ask any more questions after signing the form.
+
+**Answer**: B
+
+**Rationale**: The consent text states that patients have the right to change their mind about the procedure at any time, even after signing the consent form, preferably after discussing with their doctor. This ensures patients maintain control over their healthcare decisions.
+
+=== MCQ 7 ===
+**Topic**: Post-Procedure Expectations and Care
+
+**Question 7**: What is a common symptom you might experience for a few days after a cystoscopy?
+
+A) Severe abdominal pain
+
+B) Burning sensation during urination
+
+C) Persistent high fever
+
+D) Complete inability to urinate
+
+**Answer**: B
+
+**Rationale**: The consent text mentions that a burning and scalding sensation during urination is a common symptom that usually settles a few days after the procedure. The other options are not listed as typical post-procedure symptoms.
+
+=== MCQ 8 ===
+**Topic**: Infection Risks and Management
+
+**Question 8**: What might be required if an infection occurs after a cystoscopy?
+
+A) Immediate surgery
+
+B) Antibiotics and further treatment
+
+C) Hospitalization for a month
+
+D) No action is needed
+
+**Answer**: B
+
+**Rationale**: The consent text states that if an infection occurs after a cystoscopy, it may require antibiotics and further treatment. This is a common approach to managing infections post-procedure.
+
+=== MCQ 9 ===
+**Topic**: Potential Complications and Their Management
+
+**Question 9**: What might be needed if swelling at the exit of the bladder stops urine flow after a cystoscopy?
+
+A) Pain medication
+
+B) A tube (catheter) to drain urine
+
+C) Immediate discharge from the hospital
+
+D) Dietary changes
+
+**Answer**: B
+
+**Rationale**: The consent text explains that if swelling at the exit of the bladder stops the passage of urine, a catheter may need to be inserted to drain the urine until the swelling goes down. This is a specific management step for this complication.
+
+=== MCQ 10 ===
+**Topic**: Understanding the Role of the Doctor and Medical Team
+
+**Question 10**: Who might perform or assist with the cystoscopy procedure?
+
+A) Only the consultant/specialist
+
+B) A nurse without supervision
+
+C) A doctor undergoing further training
+
+D) A family member of the patient
+
+**Answer**: C
+
+**Rationale**: The consent text states that a doctor other than the consultant/specialist, including one undergoing further training, may perform or assist with the procedure. This is done under supervision according to professional guidelines.

@@ -1,0 +1,132 @@
+**Topics:**
+
+1) Understanding the Cystoscopy Procedure
+*Rationale:* Patients should be aware of what a cystoscopy involves, including the use of a cystoscope to examine the bladder and urethra.
+
+2) General and Specific Risks of Cystoscopy
+*Rationale:* It is important for patients to understand both the general and specific risks associated with the procedure, such as infection, bleeding, and potential damage to the urethra or bladder.
+
+3) The Role of Anaesthesia in Cystoscopy
+*Rationale:* Patients need to know that anaesthesia is required for the procedure and should be informed about the associated risks and the importance of discussing any concerns with their doctor.
+
+4) Potential Outcomes and the Need for Further Procedures
+*Rationale:* Patients should be aware that the procedure may not guarantee improvement and that further procedures might be necessary if the cystoscopy cannot be completed as planned.
+
+5) Involvement of Medical Trainees and Students
+*Rationale:* Patients should understand that a doctor in training may perform or assist with the procedure under supervision, and they have the right to consent or decline student involvement.
+
+6) Risks of Not Having the Procedure
+*Rationale:* Understanding the potential consequences of not undergoing the procedure is crucial for informed decision-making.
+
+7) Patient Rights and Consent
+*Rationale:* Patients should be informed about their rights to ask questions, change their mind, and consent to or decline student involvement in their care.
+
+=== MCQ 1 ===
+**Topic**: General and Specific Risks of Cystoscopy  
+**Question 1**: Which of the following is a specific risk associated with a cystoscopy procedure?  
+A) Heart attack  
+B) Damage to the bladder wall  
+C) Blood clot in the leg (DVT)  
+D) Small areas of the lung collapsing  
+
+**Answer**: B  
+**Rationale**: Damage to the bladder wall is listed as a specific risk of the cystoscopy procedure. The other options are general risks associated with the procedure.
+
+=== MCQ 2 ===
+**Topic**: The Role of Anaesthesia in Cystoscopy  
+**Question 2**: What is required for a cystoscopy procedure according to the consent form?  
+A) No anaesthetic is needed  
+B) A local anaesthetic only  
+C) An anaesthetic is required  
+D) Only pain medication is needed  
+
+**Answer**: C  
+**Rationale**: The consent form states that the cystoscopy procedure will require an anaesthetic.
+
+=== MCQ 3 ===
+**Topic**: Involvement of Medical Trainees and Students  
+**Question 3**: What should a patient know about the involvement of students during a cystoscopy procedure?  
+A) Students will perform the procedure without supervision  
+B) Students may observe or assist only with patient consent  
+C) Students are not allowed to be present during the procedure  
+D) Students will perform the procedure independently  
+
+**Answer**: B  
+**Rationale**: The consent form states that students may observe or assist in the procedure for educational purposes, but only with the patient's consent and under the supervision of the treating doctor.
+
+=== MCQ 4 ===
+**Topic**: Understanding the Cystoscopy Procedure  
+**Question 4**: What is the main purpose of a cystoscopy procedure?  
+A) To remove kidney stones  
+B) To examine the inside of the bladder and urethra  
+C) To perform surgery on the prostate  
+D) To treat urinary tract infections  
+
+**Answer**: B  
+**Rationale**: The consent form explains that a cystoscopy is performed to look and examine the inside of the bladder and urethra using a cystoscope.
+
+=== MCQ 5 ===
+**Topic**: Risks of Not Having the Procedure  
+**Question 5**: What should a patient consider about not having a cystoscopy procedure?  
+A) It guarantees no future bladder issues  
+B) It may lead to unresolved medical conditions  
+C) It will prevent any risk of infection  
+D) It ensures no need for anaesthesia  
+
+**Answer**: B  
+**Rationale**: The consent form indicates that the doctor should explain the risks of not having the procedure, which implies that not undergoing the cystoscopy may leave medical conditions unresolved.
+
+=== MCQ 6 ===
+**Topic**: Patient Rights and Consent  
+**Question 6**: What right does a patient have regarding their decision about the cystoscopy procedure?  
+A) They must proceed once the form is signed  
+B) They can change their mind at any time  
+C) They cannot ask questions after signing  
+D) They must consent to student involvement  
+
+**Answer**: B  
+**Rationale**: The consent form clearly states that patients have the right to change their mind at any time, even after signing the consent form, preferably after discussing with their doctor.
+
+=== MCQ 7 ===
+**Topic**: General Risks of Cystoscopy  
+**Question 7**: Which of the following is a general risk associated with a cystoscopy procedure?  
+A) Damage to the bladder wall  
+B) Infection requiring antibiotics  
+C) Burning sensation during urination  
+D) Swelling at the exit of the bladder  
+
+**Answer**: B  
+**Rationale**: The consent form lists infection requiring antibiotics as a general risk of the cystoscopy procedure. The other options are specific risks associated with the procedure.
+
+=== MCQ 8 ===
+**Topic**: Potential Outcomes and the Need for Further Procedures  
+**Question 8**: What might be necessary if a cystoscopy cannot be completed as planned?  
+A) The procedure will be canceled permanently  
+B) Further procedures may be required  
+C) The patient will be discharged immediately  
+D) No further action will be taken  
+
+**Answer**: B  
+**Rationale**: The consent form indicates that if the cystoscopy cannot be completed at the time, further procedures may be required to address the patient's condition.
+
+=== MCQ 9 ===
+**Topic**: Understanding the Cystoscopy Procedure  
+**Question 9**: What instrument is used during a cystoscopy to examine the bladder and urethra?  
+A) Endoscope  
+B) Microscope  
+C) Cystoscope  
+D) Stethoscope  
+
+**Answer**: C  
+**Rationale**: The consent form specifies that a cystoscope, a fine telescopic-type instrument, is used to examine the inside of the bladder and urethra during a cystoscopy.
+
+=== MCQ 10 ===
+**Topic**: Patient Rights and Consent  
+**Question 10**: What should a patient do if they have questions or concerns about the cystoscopy procedure?  
+A) Wait until after the procedure to ask  
+B) Discuss them with the doctor before the procedure  
+C) Only ask questions if there is a complication  
+D) Write them down and keep them private  
+
+**Answer**: B  
+**Rationale**: The consent form encourages patients to ask questions and raise concerns with the doctor about the procedure, its risks, and treatment options before the procedure takes place.
